@@ -34,5 +34,38 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+	{
+		"name": "Antarctica"
+		"leaderName": "Prengu The Penguine"
+		"adjective": ["antarctican"]
+		"startBias": ["Snow"]
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Soon you´ll be frozen to death!",
+		"attacked": "Oh, I guess there´s no other way than to freeze you.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you cold or warm?",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [94, 170, 241],
+		"innerColor": [17, 234, 211],
+		"favoredReligion": "Islam",
+		"uniqueName": "Penguin",
+		"uniques": ["All units move through Snow Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"cities": ["Pingcity","Pengcity","Guincity","Freeccity","Prengui","Icity","Fishity","Marity","Sushity","Black",
+			"White","Bluewhalcity","Caricity","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Paul the Penguin", "Prenguin", "Whalium II", "Albatron IV", "Seal the Leopard", "Orcas V", "Emporor the Penguin", "Belu", "ga", "Pingel"]
+	},
+	
+	
 ]
