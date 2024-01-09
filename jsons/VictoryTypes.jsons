@@ -1,0 +1,10 @@
+[
+  {
+        "name": "Religion",
+        "hiddenInVictoryScreen": false,
+        "victoryScreenHeader": "Become the world religion and build the Grand Temple\nto win!",
+        "milestones": ["Build [Grand Temple]","Become the world religion"],
+        "victoryString": "You have achieved victory by becoming the only faith in the world! Believing in something stronger is a fundamental human demand, and now, everyone will pray for you. Your words and actions represent everything, and those false beliefs have been forgotten and extinguished in your glory.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]
