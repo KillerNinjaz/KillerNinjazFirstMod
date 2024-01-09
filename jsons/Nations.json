@@ -66,6 +66,14 @@
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
         "spyNames": ["Paul the Penguin", "Prenguin", "Whalium II", "Albatron IV", "Seal the Leopard", "Orcas V", "Emporor the Penguin", "Belu", "ga", "Pingel"]
 	},
-	
+	{
+		"name": "Tannania"
+		"leaderName": "Firdrinand"
+		"adjective" : "fir"
+		"startBias" : ["Forest"]
+		"preferredVictoryType": "Scientific",
+
+		
+	},
 	
 ]
